@@ -671,6 +671,7 @@ footer{
 .wpcf7-form-control-wrap{
     display: flex;
     margin: 0 auto;
+    flex-direction: column;
 }
 
 .wpcf7-spinner{
