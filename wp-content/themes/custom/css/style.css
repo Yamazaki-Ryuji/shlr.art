@@ -78,6 +78,15 @@ footer{
     justify-content: center;
 }
 
+footer a{
+    text-decoration: none;
+    color: var(--txt-color);
+}
+
+footer a:visited{
+    color: var(--txt-color);
+}
+
 /********************* Navigation **********************/
 
 .logo{
