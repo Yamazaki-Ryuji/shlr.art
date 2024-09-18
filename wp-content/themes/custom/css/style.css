@@ -362,6 +362,10 @@ footer a:visited{
     margin-right: 10px;
 }
 
+.wp-block-columns{
+    align-items: center;
+}
+
 .actuality-title{
     text-align: center;
     color: var(--first-color);
@@ -385,7 +389,7 @@ footer a:visited{
         justify-content: center;
         padding-bottom: 20px;
         align-items: center;
-
+        padding: 20px;
     }
     
     .actuality{
